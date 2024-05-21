@@ -1,2 +1,3 @@
 # StudyProject
-My project for study purposes
+
+Итоговый проект по программированию
